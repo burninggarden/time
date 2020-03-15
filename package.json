@@ -1,11 +1,11 @@
 {
-  "name": "@burninggarden/PROJECT_PLACEHOLDER",
+  "name": "@burninggarden/time",
   "description": "Your project description here",
   "version": "0.0.1",
   "private": false,
   "author": "Burning Garden",
   "homepage": "https://burninggarden.com",
-  "repository": "https://github.com/burninggarden/PROJECT_PLACEHOLDER",
+  "repository": "https://github.com/burninggarden/time",
   "main": "./dist/src/index.js",
   "dependencies": {
     "@burninggarden/enums": "0.0.13",

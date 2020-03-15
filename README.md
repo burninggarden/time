@@ -1,3 +1,3 @@
-# PROJECT_PLACEHOLDER
+# Time
 
-Your project description here
+A set of time-related utilities.
